@@ -5,5 +5,5 @@ import androidx.navigation.NavHostController
 
 
 @Composable
-fun Add (navController: NavHostController) {
+fun AddScreen (navController: NavHostController) {
 }
